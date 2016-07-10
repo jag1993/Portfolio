@@ -1,0 +1,87 @@
+
+@media screen and (min-width:769px) and (max-width:980px)
+{ 
+	
+/*INDEX*/
+.mainsection980index{
+	width: 400px;
+	height: 550px;
+	padding:30px;
+	margin-top: 30px;
+	margin-left:30px;
+	margin-bottom:150px;
+	background-color:#ffffff;
+	float:left;
+	clear:left;
+	border-color:#dddddd;
+}
+
+.profpic{
+	height:200px;
+	width:200px;
+	float:left;
+	margin-right: 15px;
+	margin-top:25px;
+}
+
+.sidebar980index{
+	width:200px;
+	margin-left:20px;
+	margin-top:30px;
+	padding: 30px;
+	background-color:#ffffff;
+}
+
+
+/*PORTFOLIO*/
+
+.mainsection980portfolio{
+	width:450px;
+	padding:30px;
+}
+
+.imagecontainer{
+	width:400px;
+}
+
+.portfolioimage{
+	width:400px;
+}
+
+.label{
+	bottom:6px;
+	height:10px;
+}
+
+/*FORM*/
+.mainsection980form{
+	width: 400px;
+	height: 550px;
+	padding:30px;
+	margin-top: 30px;
+	margin-left:30px;
+	margin-bottom:150px;
+	background-color:#ffffff;
+	float:left;
+	clear:left;
+	border-color:#dddddd;
+}
+
+.sidebar980form{
+	width:200px;
+	margin-left:20px;
+	margin-top:30px;
+	padding: 30px;
+	background-color:#ffffff;
+}
+
+input{
+	width:350px;
+}
+
+textarea{
+	width:350px;
+}
+
+}
+

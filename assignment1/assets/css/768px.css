@@ -1,0 +1,74 @@
+@media screen and (min-width:641px) and (max-width:768px)
+{ 
+/*INDEX*/
+.mainsection768index{
+	width:500px;
+	height:500px;
+	padding:20px;
+	margin-bottom:20px;
+	margin-left:50px;
+}
+
+.sidebar768index{
+	margin-left: 50px;
+	margin-top:0px;
+	margin-bottom:20px;
+	width:500px;
+	padding:20px;
+}
+
+/*PORTFOLIO*/
+.mainsection768portfolio{
+	width:550px;
+	height:650px;
+	padding:20px;
+	margin-left:50px;
+	margin-right:0px;
+	margin-bottom:0px;
+}
+
+.imagecontainer{
+	width:200px;
+	margin:30px;
+}
+
+.portfolioimage{
+	width:200px;
+}
+
+.sidebar768portfolio{
+	width:510px;
+	margin-left: 50px;
+	margin-top:20px;
+	margin-bottom:20px;
+	padding:40px;
+}
+
+/*FORM*/
+.mainsection768form{
+	width:500px;
+	height:500px;
+	padding:20px 20px 70px 20px;
+	margin-left:50px;
+	margin-bottom:0px;
+	}
+
+.sidebar768form{
+	width:500px;
+	margin-left: 50px;
+	margin-top:20px;
+	margin-bottom:20px;
+	padding:20px;
+}
+
+/*768pxform*/
+input{
+	width:500px;
+}
+
+textarea{
+	width:500px;
+}
+
+}
+

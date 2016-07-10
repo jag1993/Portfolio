@@ -1,0 +1,100 @@
+@media screen and (max-width: 640px)
+{ 	
+/*NAVBAR*/
+.navbar640{
+position:fixed;
+z-index: 500;
+}
+
+nav>a{
+	padding:70px;
+}
+
+.myname640{
+	width:100%;
+	margin:0;
+	text-align:center;
+	position: relative;
+	right: 25px;
+
+}
+
+.navlist640{
+	width:100%;
+	text-align:center;
+	background-color:white;
+	margin:0px;
+	clear:both;
+}
+
+/*INDEX*/
+.mainsection640index{
+	margin-top:150px;
+	margin-left:40px;
+	margin-bottom:0px;
+	width:500px;
+	padding:30px;
+}
+
+
+.sidebar640index{
+	padding:30px;
+	margin-left:40px;
+	margin-bottom:20px;
+	width:500px;
+	clear:both;
+}
+
+
+/*PORTFOLIO*/
+.mainsection640portfolio{
+	margin-top:150px;
+	margin-left:40px;
+	margin-bottom:0px;
+	width:500px;
+	padding:30px;
+}
+
+.sidebar640portfolio{
+	padding:30px;
+	margin-left:40px;
+	margin-bottom:20px;
+	width:500px;
+	clear:both;
+}
+
+.imagecontainer{
+	width: 500px;
+    float: left;
+    margin: 5px;
+    position: relative;
+}
+
+.portfolioimage{
+	width:500px;
+}
+
+.label{
+	margin-top:250px;
+}
+
+/*FORM*/
+.mainsection640form{
+	width:500px;
+	margin-top:150px;
+	margin-left:40px;
+	margin-bottom:0px;
+	padding:30px 30px 30px 30px;
+
+}
+
+.sidebar640form{
+	width:500px;
+	padding:30px;
+	margin-left:35px;
+	margin-bottom:30px;
+	clear:both;
+}
+
+}
+
