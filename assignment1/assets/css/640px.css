@@ -28,8 +28,15 @@ nav>a{
 }
 
 /*INDEX*/
+.profpic640{
+	clear:both;
+	width:500px;
+	height:500px;
+}
+
 .mainsection640index{
 	margin-top:150px;
+	height:900px;
 	margin-left:40px;
 	margin-bottom:0px;
 	width:500px;

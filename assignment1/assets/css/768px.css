@@ -14,8 +14,13 @@
 	margin-top:0px;
 	margin-bottom:20px;
 	width:500px;
-	padding:20px;
+	padding:20px;	
 }
+
+.profpic768{
+	clear:both;
+}
+
 
 /*PORTFOLIO*/
 .mainsection768portfolio{
